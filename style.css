@@ -1,0 +1,18 @@
+body{
+    font-family: 'Hina Mincho', serif;
+}
+h1{
+    font-size: 50px;
+}
+.Name-title{
+    color: #FE2D10;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
