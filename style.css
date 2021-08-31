@@ -33,9 +33,9 @@ h1{
 p{
     color: dimgray;
 }
-.dream-area{
-    background-image: url("images/dream-bg.png");
+.dream-area{    
     background-repeat: no-repeat;
+    background-image: url("images/dream-bg.png");
     height: 400px;
     background-position: right;
 }
